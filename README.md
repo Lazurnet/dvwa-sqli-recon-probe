@@ -11,11 +11,10 @@ Mini-projet d’audit de sécurité visant à détecter et exploiter une vulnér
 - Présenter les méthodes d’atténuation
 
 
-##  Environnement utilisé
-- Windows (hôte)
-- Docker Desktop
-- DVWA (Damn Vulnerable Web Application)
-- Navigateur web
+##  Environnement
+- Kali Linux (VirtualBox)
+- Docker installé
+- DVWA via Docker
 
 ## Installation de DVWA
 
